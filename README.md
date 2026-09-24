@@ -1,2 +1,3 @@
 # First-script
-getting comfortable
+#getting comfortable
+print ("Hello World!")
